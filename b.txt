@@ -1,6 +1,4 @@
 bbbbbbbb
-<<<<<<< HEAD
 mmmmmmmm
-=======
 tttttttt
->>>>>>> newtest
+
